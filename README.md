@@ -13,8 +13,6 @@ Phone numbers in various formats (e.g., (123) 456-7890, 123-456-7890)
 
 Credit card numbers (e.g., 1234-5678-9012-3456)
 
-HTML tags (e.g., <div>, <a href="...">)
-
 Hashtags used in social media (e.g., #AI, #Python)
 
 Currency values (e.g., $1,234.56)
